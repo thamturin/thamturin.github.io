@@ -1,0 +1,13 @@
+:root {
+    --name: iNeoony;
+    --text-color: #fff;
+    --back-color: #fff3;
+    --over-color: #fefefe;
+    --popup-text-color: #000000;
+    --border: none;
+    --pasxalka: https://www.t.me/iNeoonyNews;
+    --has-pasxalka-work: 'true';
+}
+figure {
+    margin: 0;
+}
