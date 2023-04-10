@@ -1,10 +1,9 @@
 ```
-Public on https://thamturin.github.io
+Public on ???
 ```
 
-# coded by rf0x1d | fork and re-write by tomm
-skidded by thamturin lmao
+# coded by thamturin
 
 Contact me via:
-Discord: rin.png#2605
+Discord: rin/gbao#8030
 
